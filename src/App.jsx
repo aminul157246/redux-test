@@ -1,9 +1,10 @@
+import Home from "./pages/Home"
 
 function App() {
 
   return (
 <div>
-  <h2>Redux</h2>
+  <Home/>
 </div>
   )
 }
